@@ -1,0 +1,291 @@
+📦 Materiais Necessários (do vídeo + briefing)
+Estrutura
+
+Papelão (carroceria e base)
+
+Cola quente ou supercola
+
+Palitos de madeira / canudos plásticos (eixos e reforço)
+
+Rodas
+
+Tampinhas de garrafa PET (rodas)
+
+EVA ou borracha fina (aderência das rodas)
+
+Sistema Elétrico
+
+Motor DC 3–5V
+
+Fios finos
+
+2 interruptores on/off
+
+2 pilhas de 9V + suporte
+
+Controle Remoto
+
+Papelão (estrutura)
+
+Fios conectados ao motor
+
+Interruptores para frente/trás e esquerda/direita
+
+Extras
+
+Tesoura/estilete
+
+Fita isolante
+
+Tinta ou papel colorido para acabamento
+
+📋 TAP (Termo de Abertura do Projeto)
+Projeto: Carro de Controle Remoto de Papelão
+
+Empresa fictícia: Axxion Motors
+
+Objetivo: Construir um protótipo funcional de carro de controle remoto utilizando materiais recicláveis e de baixo custo.
+
+Justificativa: Aplicar práticas de Scrum e PMBOK em um projeto físico, promovendo inovação sustentável.
+
+Escopo:
+
+Estrutura em papelão
+
+Rodas com tampinhas de garrafa
+
+Sistema elétrico com motor DC
+
+Controle remoto simples com interruptores
+
+Restrições:
+
+Materiais recicláveis ou baratos
+
+Entrega final em 8 sprints (08/06)
+
+Stakeholders: Professor, equipe Axxion Motors, colegas de turma
+
+🗂️ EAP (Estrutura Analítica do Projeto)
+Planejamento
+
+Definição de escopo
+
+Levantamento de materiais
+
+Custos estimados
+
+Construção
+
+Base e rodas
+
+Instalação do motor
+
+Sistema elétrico
+
+Carroceria
+
+Controle remoto
+
+Testes
+
+Mobilidade
+
+Direção
+
+Ajustes finais
+
+Documentação
+
+Relatórios de sprint
+
+Fotos e prints do Trello
+
+Vídeo pitch
+
+⚠️ Riscos
+Materiais não disponíveis → Mitigação: buscar alternativas recicláveis.
+
+Motor não funcionar → Mitigação: testar antes da montagem.
+
+Equipe incompleta em sprint → Mitigação: rotatividade de papéis.
+
+Problemas elétricos → Mitigação: revisar conexões com fita isolante.
+
+💰 Custos Estimados
+Papelão: reciclado (R$0)
+
+Tampinhas PET: recicladas (R$0)
+
+Cola quente: R$15
+
+Motor DC: R$20
+
+Fios e interruptores: R$15
+
+Pilhas 9V: R$20
+
+EVA/tinta: R$10
+Total: ~R$80
+
+📅 Cronograma das 8 Sprints
+Sprint 1 (06/04): Base e rodas
+
+Sprint 2 (13/04): Instalação do motor
+
+Sprint 3 (20/04): Sistema elétrico
+
+Sprint 4 (27/04): Carroceria
+
+Sprint 5 (04/05): Controle remoto
+
+Sprint 6 (11/05): Testes de mobilidade
+
+Sprint 7 (18/05): Ajustes finais + documentação
+
+Sprint 8 (08/06): Entrega + vídeo pitch
+
+📌 Product Backlog (Resumo)
+Criar base de sustentação
+
+Montar rodas com tampinhas
+
+Instalar motor DC
+
+Conectar sistema elétrico
+
+Criar carroceria estilizada
+
+Montar controle remoto
+
+Testar mobilidade
+
+Documentar e apresentar
+----------------------------------------------
+
+📌 Product Backlog (Visão Geral)
+Criar base de sustentação em papelão
+
+Montar rodas com tampinhas PET e eixos de canudinho
+
+Instalar motor DC 3–5V
+
+Conectar sistema elétrico (fios, pilhas, interruptores)
+
+Criar carroceria estilizada em papelão
+
+Montar controle remoto com papelão e interruptores
+
+Testar mobilidade e direção
+
+Documentar cada sprint (fotos, prints, relatórios)
+
+Produzir vídeo pitch da equipe e produto final
+
+📅 Sprint Backlogs com Cards Numerados
+Sprint 1 (06/04)
+Backlog: Criar base de sustentação e rodas.
+
+Cards:
+
+Card 1: User Story – “Como engenheiro da Axxion Motors, quero uma base firme para suportar o carro.”
+
+Tarefas: cortar papelão, montar base, reforçar com palitos.
+
+Critérios de aceite: base estável e nivelada.
+
+Card 2: User Story – “Como usuário, quero rodas que permitam mobilidade.”
+
+Tarefas: fixar tampinhas em eixos de canudinho.
+
+Critérios de aceite: rodas giram livremente.
+
+Card 3: Pintar a base para estilo.
+
+Sprint 2 (13/04)
+Backlog: Instalar motor DC.
+
+Cards:
+
+Card 4: Instalar motor na base.
+
+Card 5: Fixar suporte para motor.
+
+Card 6: Testar funcionamento inicial.
+
+Sprint 3 (20/04)
+Backlog: Conectar sistema elétrico.
+
+Cards:
+
+Card 7: Conectar fios ao motor.
+
+Card 8: Instalar pilhas e suporte.
+
+Card 9: Testar circuito elétrico.
+
+Sprint 4 (27/04)
+Backlog: Criar carroceria estilizada.
+
+Cards:
+
+Card 10: Cortar papelão para carroceria.
+
+Card 11: Montar carroceria sobre a base.
+
+Card 12: Pintar e decorar carroceria.
+
+Sprint 5 (04/05)
+Backlog: Montar controle remoto.
+
+Cards:
+
+Card 13: Criar estrutura em papelão.
+
+Card 14: Instalar interruptores.
+
+Card 15: Conectar fios ao motor.
+
+Sprint 6 (11/05)
+Backlog: Testes de mobilidade.
+
+Cards:
+
+Card 16: Testar movimento frente/trás.
+
+Card 17: Testar direção esquerda/direita.
+
+Card 18: Ajustar falhas elétricas.
+
+Sprint 7 (18/05)
+Backlog: Ajustes finais + documentação.
+
+Cards:
+
+Card 19: Revisar estrutura.
+
+Card 20: Revisar sistema elétrico.
+
+Card 21: Produzir relatório e prints do Trello.
+
+Sprint 8 (08/06)
+Backlog: Entrega final + vídeo pitch.
+
+Cards:
+
+Card 22: Gravar vídeo pitch da equipe.
+
+Card 23: Apresentar carro funcional.
+
+Card 24: Entregar documentação completa.
+
+📊 Taskboard (Modelo Trello)
+To Do: Cards planejados para a sprint
+
+Doing: Cards em execução
+
+Done: Cards concluídos
+
+Impediments: Problemas encontrados
+
+Unplanned Items: Ajustes não previstos
